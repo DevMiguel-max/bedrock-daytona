@@ -1,0 +1,7 @@
+# Dados de runtime (NÃO commitar — playit/ contém seu secret)
+server/
+playit/
+backups/
+*.part
+*.new
+__pycache__/
